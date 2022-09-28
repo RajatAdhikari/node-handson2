@@ -3,7 +3,7 @@ const app=express();
 const port=4000
 
 const data={
-    name:'Anushikha',
+    name:'Rajat adhikari',
     class:'Elevation Academy',
     subject:'Express'
 }
